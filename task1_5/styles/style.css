@@ -1,61 +1,17 @@
 .image-winter {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
   background: url(../images/winter.jpg);
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  color: white;
-  font-size: 5rem;
-  text-shadow: black 5px 5px;
 }
 
 .image-spring {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
   background-image: url(../images/spring.jpg);
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  color: white;
-  font-size: 5rem;
-  text-shadow: black 5px 5px;
 }
 
 .image-summer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
   background-image: url(../images/summer.jpg);
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  color: white;
-  font-size: 5rem;
-  text-shadow: black 5px 5px;
 }
 
 .image-autumn {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
   background-image: url(../images/autumn.jpg);
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  color: white;
-  font-size: 5rem;
-  text-shadow: black 5px 5px;
 }
 
 .parallax {
